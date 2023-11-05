@@ -1,2 +1,2 @@
 # unitygit
-Git project on Unity
+Git project on Unity 2023.1.7f1

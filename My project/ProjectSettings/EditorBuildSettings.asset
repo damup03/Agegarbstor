@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/damup03/Maximple/25D/Scenes/MainMenu.unity
+    guid: 5494af9b1363b5246bf122c62a2ecc7e
+  - enabled: 1
+    path: Assets/damup03/Maximple/25D/Scenes/SampleScene.unity
+    guid: bb88c88a59a04584b93c0f3f84c7eb1a
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
